@@ -1,0 +1,96 @@
+body{
+	margin:0;
+	padding:0;
+	color: white;
+	font-family: 'OpenSansLight' normal;
+	font-weight: 200;
+	text-align: center;
+}
+
+
+.home { 
+	background: url(header.jpg) 100% 0 no-repeat fixed; 
+	height: 1000px;  
+	margin: 0 auto; 
+    width: 100%; 
+}
+
+#about { 
+	opacity: 1;
+	background: url(earth.png); 
+	height: 1400px;
+	margin: 0 auto; 
+    width: 100%; 
+    position: relative; 
+}
+
+
+
+.title{ 
+font-size: 60px;
+font-family: 'OpenSansLight';
+font-weight: 200;
+color: white;
+height: 458px;  
+top: 291px; 
+width: 100%; 
+}
+
+#about .title { height: 458px;
+position: absolute;
+text-indent: -9999px;
+top: 291px;
+width: 100%;
+}
+nav{
+	width: 100%;
+	position: fixed;
+	margin: 0;
+	padding: 0;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+nav ul li{
+	display: inline-block;
+	list-style-type: none;
+	background-color: #000;
+	opacity: 0.5;
+	font-family: 'OpenSansBold' normal;
+	float: left;
+	width: 25%;
+	margin: 0;
+	padding: 20px 0;
+	text-align: center;
+	font-size: 16px;
+
+}
+
+nav ul li a{
+	color: #607189;
+	text-decoration: none;
+}
+
+@font-face {
+	font-family: 'OpenSansLight';
+	font-style: normal;
+	font-weight: 200;
+	src: url('opensans-light.ttf'), url('opensans-light.eot');
+}
+	
+@font-face {
+	font-family: 'OpenSansBold';
+	font-style: normal;
+	font-weight: 700;
+	src: url('opensans-bold.ttf'), url('opensans-bold.eot');
+	}
+	
+@font-face {
+	font-family: 'OpenSans';
+	font-style: normal;
+	font-weight: 400;
+	src: url('opensans-regular.ttf'), url('opensans-regular.eot');
+}
