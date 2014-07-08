@@ -49,19 +49,19 @@ a:hover, a:focus .header-btn{
 	font-family: 'OpenSansLight';
 	font-style: normal;
 	font-weight: 200;
-	src: url('opensans-light.ttf'), url('opensans-light.eot');
+	src: url('../fonts/opensans-light.ttf'), url('../fonts/opensans-light.eot');
 }
 	
 @font-face {
 	font-family: 'OpenSansBold';
 	font-style: normal;
 	font-weight: 700;
-	src: url('opensans-bold.ttf'), url('opensans-bold.eot');
+	src: url('../fonts/opensans-bold.ttf'), url('../fonts/opensans-bold.eot');
 	}
 	
 @font-face {
 	font-family: 'OpenSans';
 	font-style: normal;
 	font-weight: 400;
-	src: url('opensans-regular.ttf'), url('opensans-regular.eot');
+	src: url('../fonts/opensans-regular.ttf'), url('../fonts/opensans-regular.eot');
 }
