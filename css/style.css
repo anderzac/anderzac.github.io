@@ -1,4 +1,5 @@
 .site-header{
+	background-image: url(wallpaper-low.jpg);
 	background-image: url(wallpaper.jpg);
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;

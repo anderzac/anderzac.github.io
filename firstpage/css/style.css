@@ -17,6 +17,7 @@ body{
 
 #about { 
 	opacity: 1;
+	background: url(earth-low.png); 
 	background: url(earth.png); 
 	height: 1400px;
 	margin: 0 auto; 
