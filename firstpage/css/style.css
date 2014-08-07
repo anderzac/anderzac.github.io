@@ -1,4 +1,5 @@
 body{
+	background: url(header.jpg) no-repeat fixed;
 	margin:0;
 	padding:0;
 	color: white;
@@ -7,9 +8,11 @@ body{
 	text-align: center;
 }
 
+.top{
+	
+}
 
 .home { 
-	background: url(header.jpg) 100% 0 no-repeat fixed; 
 	height: 1000px;  
 	margin: 0 auto; 
     width: 100%; 
@@ -17,8 +20,8 @@ body{
 
 #about { 
 	opacity: 1;
-	background: url(earth-low.png); 
-	background: url(earth.png); 
+	background: url(earth-low.png) no-repeat; 
+	background: url(earth.png) no-repeat; 
 	height: 1400px;
 	margin: 0 auto; 
     width: 100%; 
@@ -35,6 +38,7 @@ color: white;
 height: 458px;  
 top: 291px; 
 width: 100%; 
+padding-top: 300px;
 }
 
 #about .title { height: 458px;
