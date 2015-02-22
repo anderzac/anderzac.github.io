@@ -1,6 +1,6 @@
 .site-header{
 	background-image: url(wallpaper-low.jpg);
-	background-image: url(../pic3.jpg);
+	background-image: url(/pic3.jpg);
 	background-repeat: no-repeat;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
