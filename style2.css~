@@ -1,7 +1,7 @@
 .site-header{
 <<<<<<< HEAD:css/style.css
 	background-image: url(wallpaper-low.jpg);
-	background-image: url(../pic3.jpg);
+	background-image: url(media/pic3.jpg);
 =======
 	background-image: url(media/wallpaper.jpg);
 >>>>>>> 0a1536c3c633eccfb7c74e68bf9e952243d5c7e1:style2.css
