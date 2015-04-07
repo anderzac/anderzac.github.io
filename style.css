@@ -268,13 +268,15 @@ header .banner {
 }
 
 #about img{
-	height: 250px;
-	border-radius: 250px;
+	max-width: 500px;
+	width: 25%;
+	border-radius: 100%;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
 	margin-top: 2%;
 }
 
 #tech img{
+	max-width: 500px;
 	width: 30%;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
 	margin-top: 3.8%;
@@ -282,6 +284,7 @@ header .banner {
 }
 
 #work img{
+	max-width: 500px;
 	width: 30%;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
 	margin-top: 50px;
@@ -289,6 +292,7 @@ header .banner {
 }
 
 #education img{
+	max-width: 500px;
 	width: 30%;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
 	margin-top: 20px;
@@ -296,6 +300,7 @@ header .banner {
 }
 
 #extra img{
+	max-width: 400px;
 	width: 25%;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
 	margin-top: 20px;
