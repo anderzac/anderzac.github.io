@@ -1,0 +1,89 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: Arial;
+}
+
+body{
+	width: 100%;
+}
+
+p{
+	width: 40%;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	clear: both;
+}
+
+.controls{
+	background: #b31217;
+	width: 75%;
+	margin: auto;
+	height: 100px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius:  5px;
+}
+
+.controls h1{
+	color: white;
+	width: 40%;
+	text-align: center;
+	margin: auto;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.controls h1 small{
+	font-size: 10px;
+}
+
+.controls a, .controls a:visited{
+	text-decoration: none;
+	color: white;
+}
+
+.controls a:hover{
+	color: #999;
+}
+
+.controls button{
+	margin: 0 10px;
+	padding: 5px;
+	background: #a00;
+	color: white;
+	border: none;
+	border-radius: 3px;
+	border: solid black 2px;
+}
+
+.controls button:hover{
+	background: #b31217;
+	border: solid white 2px;
+	color: black;
+}
+
+.video-grid{
+	width: 70%;
+	max-width: 1000px;
+	margin: auto;
+	clear: both;
+}
+
+.ng-scope{
+	display: inline-block;
+	border: none;
+	margin: auto;
+}
+
+iframe{
+	border: none;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}

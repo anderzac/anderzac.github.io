@@ -306,19 +306,40 @@ header .banner {
 	margin-top: 20px;
 }
 
+#other .info-neg{
+	width: 100%;
+	padding: 50px 0;
+}
+
+#other .info-neg h1{
+	margin-left: 100px;
+	margin-bottom: 20px;
+}
+
+#other table{
+	width: 500px;
+	margin: auto;
+}
+
 #other td{
-	width: 200px;
-	text-align: center;
+	width: 100px;
+	height: 100px;
+	text-align: center; 
+    vertical-align: middle;
+    padding-right: 40px;
+    padding-left: 40px;
 }
 
 #other td p{
-	margin-left: 87px;
+	width: 95%;
+	margin: auto;
 }
 
 #other td img{
 	width: 100px;
 	height: 100px;
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
+	padding: auto;
 }
 
 footer{
