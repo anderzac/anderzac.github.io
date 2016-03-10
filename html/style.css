@@ -1,0 +1,47 @@
+header * {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background: #ccc;
+  margin: 0;
+}
+
+a{
+  text-decoration: none;
+  color: red;
+}
+
+a:visited{
+  color: red;
+}
+
+a:hover{
+  font-size: 30px;
+}
+
+header{
+  width: 100%;
+  background: #f77;
+}
+
+header li{
+  display: inline-block;
+  padding: auto;
+  width: 10%;
+  color: red;
+}
+
+header li img{
+  height: 70px;
+  margin-right: 100px;
+}
+
+header a{
+  
+}
+
+h1, h2, h3, p{
+  margin: 10px;
+}
